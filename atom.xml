@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cn.lshblog.xyz/GrideaBlog/</id>
     <title>Gridea</title>
-    <updated>2021-04-01T10:42:52.467Z</updated>
+    <updated>2021-04-01T10:44:52.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cn.lshblog.xyz/GrideaBlog/"/>
     <link rel="self" href="https://cn.lshblog.xyz/GrideaBlog/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>种下一棵树最好的时间是十年前，其次是现在</subtitle>
     <logo>https://cn.lshblog.xyz/GrideaBlog/images/avatar.png</logo>
     <icon>https://cn.lshblog.xyz/GrideaBlog/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
